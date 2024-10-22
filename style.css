@@ -1,0 +1,45 @@
+.card {
+  background-color: white;
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+#profile-pic {
+  width: 400px;
+  height: 300px;
+  float: clear;
+}
+
+.profile-footer {
+  text-align: center;
+  margin-top: 30px;
+  padding: 10px 0;
+  background-color: white;
+  border-radius: 0 0 10px 10px;
+}
+
+h1 {
+  color: lightpink;
+}
+
+a {
+  color: lightpink;
+}
+
+h2 {
+  color: lightpink;
+}
+
+h3 {
+  color: lightpink;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+  font-weight: bold;
+}
+
+<script src="script.js"></script>
